@@ -84,9 +84,9 @@ const App = () => {
 
   return (
     <>
-      <main className="flex flex-col overflow-scroll w-screen max-w-screen-md px-4 py-2 space-y-2 items-center justify-center">
+      <main className="flex flex-col w-screen max-w-screen-md p-4 space-y-2 justify-center">
         <div className="flex justify-between items-center bg-neutral-900 border-2 border-neutral-800 px-4 py-2 rounded-lg h-full w-full">
-          <h1 className="text-2xl font-bold">Ip Lookup React</h1>
+          <h1 className="text-2xl font-bold ">Ip Lookup React</h1>
           <button
             type="button"
             className="bg-neutral-800 hover:bg-neutral-700 border-2 border-neutral-700/50 focus:outline-none font-medium rounded-lg text-sm p-2.5 text-center inline-flex items-center me-2 transition-colors z-50"
